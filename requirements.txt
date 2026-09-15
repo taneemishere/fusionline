@@ -1,0 +1,3 @@
+datasets>=2.20.0
+# heavy: dense-embedding baseline; install only when running `embed`
+# sentence-transformers>=3.0.0
